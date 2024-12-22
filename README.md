@@ -1,5 +1,4 @@
 # From-Dynamic-to-Static-Stepwisely-Generate-HDR-Image-for-Ghost-Removal
-# CRNet
 
 PyTorch implementation of From-Dynamic-to-Static-Stepwisely-Generate-HDR-Image-for-Ghost-Removal.
 
